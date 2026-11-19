@@ -1,0 +1,35 @@
+{
+ "TatQa": {
+  "sets": {
+   "qwen3-8b": 276,
+   "hunyuan": 407,
+   "ling": 327,
+   "glm": 343
+  },
+  "union": 660,
+  "already": 276,
+  "missing_calls": 384
+ },
+ "TableBench": {
+  "sets": {
+   "qwen3-8b": 59,
+   "hunyuan": 152,
+   "ling": 106,
+   "glm": 58
+  },
+  "union": 261,
+  "already": 0,
+  "missing_calls": 261
+ },
+ "CalTab151": {
+  "sets": {
+   "qwen3-8b": 49,
+   "hunyuan": 125,
+   "ling": 66,
+   "glm": 45
+  },
+  "union": 142,
+  "already": 0,
+  "missing_calls": 142
+ }
+}
